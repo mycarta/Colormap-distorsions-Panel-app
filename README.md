@@ -17,6 +17,5 @@ A Panel app to demonstrate the effect of colormaps on perception and on the abil
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master)
 
 ##### To launche the app copy and paste the link below in your browser #####
-https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=/proxy/5006/Demonstrate_colormap_distortions_interactive_Panel.ipynb
-
+https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel
 
