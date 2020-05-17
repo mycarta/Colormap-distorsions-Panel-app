@@ -13,9 +13,9 @@ The app will be presented as a lightning talk at the [Transform 2020 virtual con
 #### Demonstrate colormap distortions interactive Panel ####
 A Panel app to demonstrate the effect of colormaps on perception and on the ability to see fault edges on a seismic section
 
-##### To run the notebook interactively with Binder click on the button below #####
+##### To run the notebook interactively with Binder click on the button below: #####
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master)
 
-##### To launche the app copy and paste the link below in your browser #####
+##### To launch the app copy and paste the link below in your browser: #####
 https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel
 
