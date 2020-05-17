@@ -1,8 +1,8 @@
 ## Colormap distorsions Panel app ##
 
-The notebook in this repo serves two goals:
+The notebook in this repo served two goals:
 
-1. It is a playground for practicing Panel (as additional exercise after the  PyData Austin 2019 tutorial by James Bednar,  [Panel: Dashboards for PyData](https://youtu.be/AXpjbJUVeb4))
+1. It was a playground for practicing Panel (as additional exercise after the  PyData Austin 2019 tutorial by James Bednar,  [Panel: Dashboards for PyData](https://youtu.be/AXpjbJUVeb4))
 2. It is a working app I wanted ot sahre to demonstrate the negative effect of non-perceptual colormaps on geophysical data
 
 The app will be presented as a lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/).
