@@ -7,17 +7,17 @@ The notebook in this repo served two goals:
 
 The app will be presented as a lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/).
 
-#### Conda setup #####
+### Conda setup ####
 To create the conda environment for this tutorial run:
 
 ```
 conda env create -f environment.yml
 ```
 
-#### To run the notebook interactively with Binder click on the button below: #####
+### To run the notebook interactively with Binder click on the button below: ####
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master)
 
-#### To launch the app click on the link below (or copy and paste it in your browser): #####
+### To launch the app click on the link below (or copy and paste it in your browser): ####
 https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel
 
 
