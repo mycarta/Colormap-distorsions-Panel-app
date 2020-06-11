@@ -7,7 +7,7 @@ The notebook in this repo served two goals:
 
 The app will be presented as a lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/).
 
-#### COnda setup #####
+#### Conda setup #####
 To create the conda environment for this tutorial run:
 
 ```
