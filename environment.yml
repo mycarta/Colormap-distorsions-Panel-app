@@ -4,9 +4,11 @@ channels:
   - pyviz
   - defaults
 dependencies:
-  - numpy
+  - numpy=1.18.1
   - panel=0.9.6
   - bokeh=2.1.1
+  - param=1.9.3
+  - python=3.7.7
   - jupyter-panel-proxy
-  - scipy
-  - scikit-image
+  - scipy=1.4.1
+  - scikit-image=0.16.2
