@@ -5,7 +5,8 @@ The notebook in this repo served two goals:
 1. It was a playground for practicing Panel (following the awesome PyData tutorial by James Bednar, [Panel: Dashboards for PyData (Austin 2019)](https://youtu.be/AXpjbJUVeb4))
 2. It is a working app I wanted to share to demonstrate the effect of colormaps on perception (and on the ability to see fault edges on a seismic horizon)
 
-The app will be presented as a lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/).
+The app was presented as a lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/); you can watch a [video recording of the presentation here](https://www.youtube.com/watch?v=rUbvueIF5f8&t=510s).
+
 
 ### Conda setup ####
 To create the conda environment for this tutorial run:
