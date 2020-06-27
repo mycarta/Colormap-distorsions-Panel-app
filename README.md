@@ -7,7 +7,7 @@ The notebook in this repo served two goals:
 
 The app was presented as a lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/); you can watch a [video recording of the presentation here](https://www.youtube.com/watch?v=rUbvueIF5f8&t=510s).
 
-<img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/master/for%20readme/gif_app.gif" width="1000">
+<img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/master/for%20readme/gif_app.gif" width="800">
 
 
 ### Conda setup ####
