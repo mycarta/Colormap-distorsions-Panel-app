@@ -18,10 +18,11 @@ To create the conda environment for this tutorial run:
 conda env create -f environment.yml
 ```
 
-### To run the notebook interactively with Binder click on the button below: ####
+### To run the notebook interactively with Binder click on the button below ####
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/HEAD)
 
-
+### To launch the app directly from server, use the link below ####
+https://hub.gke2.mybinder.org/user/mycarta-colorma-sions-panel-app-ajfym72p/panel/Demonstrate_colormap_distortions_interactive_Panel?token=ZUKcsPBzRBOMFodzoVrcdQ
 
 
 ### License ###
