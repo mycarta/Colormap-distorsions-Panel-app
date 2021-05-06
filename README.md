@@ -22,8 +22,7 @@ conda env create -f environment.yml
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/HEAD)
 
 ### To launch the app directly from server, use the link below ####
-https://hub.gke2.mybinder.org/user/mycarta-colorma-sions-panel-app-ajfym72p/panel/Demonstrate_colormap_distortions_interactive_Panel?token=ZUKcsPBzRBOMFodzoVrcdQ
-
+https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel
 
 ### License ###
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> CC BY Creative Commons License</a>, with the exception of the data used (a seismic horizon from the [Penobscot 3D](https://terranubis.com/datainfo/Penobscot) which is covered by a [CC BY-SA Creative Commons License](https://creativecommons.org/licenses/by-sa/3.0/)).
