@@ -45,7 +45,7 @@ Notice that the intensity plots are virtually indistinguishable. A perceptual co
 <img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/a083b6f9457e418c2e73161acb167503dcc15559/for%20readme/nipy_spectral.png" width="600">
 </p>
 
-5. The interesting thing to me is that, according to this intensity-based tool, even a perceptual version of the rainbow still has some issues (subtle, but they are there, like the thin white edges (yellow arrows) and the red area with an artificial decrease in intensity (purple arrow) that for data representing relief or elevation can give the impression of lows where there should be highs:
+5. The interesting thing to me is that, according to this intensity-based tool, even a perceptual version of the rainbow still has some issues. They are subtle, but they are definitely there, like the thin white strips (caused by yellow hard edges), indicated by yellow arrows and the red with its artificial decrease in intensity (indicated by purple arrow) giving the impression of lows where there should be highs:
 <p align="center">
 <img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/994fe6cf47625af4e0f816e6bb6dd18557753fb3/for%20readme/cet_rainbow.png" width="600">
 </p>
