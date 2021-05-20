@@ -47,7 +47,7 @@ Notice that the intensity plots are virtually indistinguishable. A perceptual co
 <img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/a083b6f9457e418c2e73161acb167503dcc15559/for%20readme/nipy_spectral.png" width="600">
 </p>
 
-5. As further evidence, please compare the hillhsade versions with contours:
+5. As further evidence, please compare the hillshsade versions with contours:
 <p align="center">
 <img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/bc66e63e12aac6ecab98cefb773634df6a42754c/for%20readme/data_hillshade.png" width="500">
 </p>
