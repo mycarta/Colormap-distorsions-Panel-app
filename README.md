@@ -31,16 +31,17 @@ If you would like some background, please read [Crameri et al., 2020,  The misus
 The idea of this app is to allow compare any from a wide variety of colormaps to a good perceptual benchmark. As such:
 1. In the top row, I chose grayscale as reference perceptually uniform colormap. (N.B. not all grayscale colormaps are actually truly, 100% perceptually uniform, when you plot Lightness, but this is a decent approximation).
 2.  The left column is purely for visual reference of the data with grayscale (top) vs. data with colormap (bottom). (N.B. I plan at some point to add an option to show the deuteranope simulation as an extra).
-3.a.  The real comparison is done in the middle column (it should be fairly intuitive) by only showing intensity with monochromatic palette for the grayscale (top) and colormapped (bottom). A perceptual colormap with uniform incremental contrast at bottom would look like the benchmark at top. Below I am showing an example for Viridis:
+3.
+  i. The real comparison is done in the middle column (it should be fairly intuitive) by only showing intensity with monochromatic palette for the grayscale (top) and colormapped (bottom). A perceptual colormap with uniform incremental contrast at bottom would look like the benchmark at top. Below I am showing an example for Viridis:
 <p align="center">
 <img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/086b13486cd0fd386d253ec1229067fedd9ea0b3/for%20readme/viridis.png" width="600">
 </p>
 Notice that the intensity plots are virtually indistinguishable.
-3.b. A perceptual colormap with uniform but lower total intensity contrast (from least to most intense) will still look similar to the reference, but a bit more washed out due to shorter range. Below is an example with one of my colormaps, CubeYF:
+  ii. A perceptual colormap with uniform but lower total intensity contrast (from least to most intense) will still look similar to the reference, but a bit more washed out due to shorter range. Below is an example with one of my colormaps, CubeYF:
 <p align="center">
 <img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/master/for%20readme/cube_YF.png" width="600">
 </p>
-3.c. To clarify: I use intensity here for simplicity, as it may be a more familiar idea to more users; I will eventually switch to Lightness.
+iii. To clarify: I use intensity here for simplicity, as it may be a more familiar idea to more users; I will eventually switch to Lightness.
 
 4.a. The right column uses Sobel edge detection to enhance the visibility of potential artifacts caused by non perceptual colormaps. Below is an example with npy_spectral, highlighting scarps (continuous arrow) and plateaus (dashed arrow):
 <p align="center">
