@@ -41,6 +41,7 @@ Notice that the intensity plots are virtually indistinguishable.
 <img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/master/for%20readme/cube_YF.png" width="600">
 </p>
 3c. To clarify: I use intensity here for simplicity, as it may be a more familiar idea to more users; I will eventually switch to Lightness.
+
 4a. The right column uses Sobel edge detection to enhance the visibility of potential artifacts caused by non perceptual colormaps. Below is an example with npy_spectral, highlighting scarps (continuous arrow) and plateaus (dashed arrow):
 <p align="center">
 <img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/a083b6f9457e418c2e73161acb167503dcc15559/for%20readme/nipy_spectral.png" width="600">
