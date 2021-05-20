@@ -44,12 +44,12 @@ Notice that the intensity plots are virtually indistinguishable. A perceptual co
 
 4. The right column uses Sobel edge detection to enhance the visibility of potential artifacts caused by non perceptual colormaps. Additionally, edge detection is typically an interpretation product, so it is a good way to show what to expect, and how artifacts have an effects a real-world workflow. Below is an example with npy_spectral, highlighting scarps (continuous arrow) and plateaus (dashed arrow):
 <p align="center">
-<img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/a083b6f9457e418c2e73161acb167503dcc15559/for%20readme/nipy_spectral.png" width="600">
+<img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/a083b6f9457e418c2e73161acb167503dcc15559/for%20readme/nipy_spectral.png" width="400">
 </p>
 
 5. As further evidence, please compare the hillhsade versions with contours:
 <p align="center">
-<img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/bc66e63e12aac6ecab98cefb773634df6a42754c/for%20readme/data_hillshade.png" width="600">
+<img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/bc66e63e12aac6ecab98cefb773634df6a42754c/for%20readme/data_hillshade.png" width="400">
 </p>
 <p align="center">
 <img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/bc66e63e12aac6ecab98cefb773634df6a42754c/for%20readme/gist_rainbow_colormapped_data_hillshade.png" width="600">
