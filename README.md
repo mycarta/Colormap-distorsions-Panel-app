@@ -26,9 +26,9 @@ conda env create -f environment.yml
 
 
 ### How to use the app ####
-If you would like some background, please read [Crameri et al., 2020,  The misuse of colour in science communication. Nat Commun 11](https://www.nature.com/articles/s41467-020-19160-7), and my Society of SEG tutorial [Evaluate and compare colormaps](https://github.com/seg/tutorials-2014/blob/master/README.md#august-2014).
+If you would like some background, please read [Crameri et al., 2020,  The misuse of colour in science communication. Nat Commun 11, 5444 ](https://www.nature.com/articles/s41467-020-19160-7), and my Society of SEG tutorial [Evaluate and compare colormaps](https://github.com/seg/tutorials-2014/blob/master/README.md#august-2014).
 
-The idea of this app is to allow compare any from a wide variety of colormaps to a good perceptual benchmark. As such:
+The idea behind this app is to allow compare any from a wide variety of colormaps to a good perceptual benchmark. As such:
 1. In the top row, I chose grayscale as reference perceptually uniform colormap. (N.B. not all grayscale colormaps are actually truly, 100% perceptually uniform, when you plot Lightness, but this is a decent approximation).
 
 2. The left column is purely for visual reference of the data with grayscale (top) vs. data with colormap (bottom). (N.B. I plan at some point to add an option to show the deuteranope simulation as an extra).
