@@ -5,6 +5,7 @@ channels:
   - defaults
 dependencies:
   - python=3.9
+  - matplotlib
   - panel=0.13
   - bokeh=2.4
   - param=1.12
