@@ -14,6 +14,7 @@ dependencies:
   - scikit-image=0.19
   - colorcet=3.0
   - jupyter
+  - jupyterlab
   - pip
   - pip:
-    - jupyter-panel-proxy==0.2.0a2
+    - jupyter-panel-proxy
