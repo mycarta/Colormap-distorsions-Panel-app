@@ -17,3 +17,5 @@ dependencies:
   - pip
   - pip:
     - jupyter-panel-proxy
+    - cmocean
+    - cmcrameri
