@@ -21,13 +21,42 @@ conda env create -f environment.yml
 ### To run the notebook interactively with Binder click on the button below ####
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=lab/tree/Demonstrate_colormap_distortions_interactive_Panel.ipynb)
 
-### How to Run on Binder ###
+### How to Run on Binder (Step-by-Step) ###
 
-1. Click the **Launch Binder** badge above (allow 1-2 minutes for the environment to load)
-2. Once JupyterLab opens, you'll see the notebook
-3. From the menu, select **Run → Run All Cells**
-4. The interactive app will appear at the bottom of the notebook
-5. Adjust the colormap widgets to explore how different colormaps affect perception
+**Don't worry if you're new to this — it's easier than it looks!**
+
+#### Step 1: Launch Binder
+- Click the **"launch binder"** badge above (the rectangular button with the orange logo)
+- A new browser tab will open showing a loading screen
+- **Be patient!** The first time may take 1-3 minutes while Binder builds the environment
+- You'll see a progress log — this is normal
+
+#### Step 2: Wait for JupyterLab to Open
+- Once ready, you'll see **JupyterLab** — a coding environment that runs in your browser
+- The notebook file (`Demonstrate_colormap_distortions_interactive_Panel.ipynb`) should already be open
+- If not, double-click on the notebook file in the left sidebar to open it
+
+#### Step 3: Run the Notebook
+- Look at the **menu bar** at the top of the screen
+- Click on **Run** (in the menu bar)
+- Select **Run All Cells** from the dropdown menu
+- Alternatively, you can use the keyboard shortcut: hold `Shift` and press `Enter` repeatedly to run cells one by one
+
+#### Step 4: Wait for the App to Load
+- The notebook will execute each code cell from top to bottom
+- You may see some output appearing as cells run
+- **Scroll down to the bottom** of the notebook — the interactive app will appear there
+- This may take 15-30 seconds after running all cells
+
+#### Step 5: Use the App!
+- You'll see dropdown menus to select different colormaps
+- Change the colormap selection and watch the plots update
+- Compare how different colormaps affect the visualization
+
+#### Troubleshooting
+- **If Binder takes too long:** Sometimes Binder servers are busy. Try again in a few minutes.
+- **If you see errors:** Try clicking **Kernel → Restart Kernel and Run All Cells** from the menu
+- **If the app doesn't appear:** Make sure you scrolled all the way to the bottom of the notebook
 
 
 ### How to use the app ####
