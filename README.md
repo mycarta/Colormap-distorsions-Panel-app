@@ -19,10 +19,15 @@ conda env create -f environment.yml
 ```
 
 ### To run the notebook interactively with Binder click on the button below ####
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=lab/tree/Demonstrate_colormap_distortions_interactive_Panel.ipynb)
 
-### To launch the app directly from server, use the link below ####
-[Launch app](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel)
+### How to Run on Binder ###
+
+1. Click the **Launch Binder** badge above (allow 1-2 minutes for the environment to load)
+2. Once JupyterLab opens, you'll see the notebook
+3. From the menu, select **Run → Run All Cells**
+4. The interactive app will appear at the bottom of the notebook
+5. Adjust the colormap widgets to explore how different colormaps affect perception
 
 
 ### How to use the app ####
