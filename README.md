@@ -94,6 +94,9 @@ Notice that the intensity plots are virtually indistinguishable. A perceptual co
 <img src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/994fe6cf47625af4e0f816e6bb6dd18557753fb3/for%20readme/cet_rainbow.png" width="600">
 </p>
 
+### Further Reading ###
+For more background and insights on colormap perception effects, check out my blog post: [Busting bad colormaps with Python and Panel](https://mycartablog.com/2020/09/17/busting-bad-colormaps-with-python-and-panel/)
+
 ### License ###
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> CC BY Creative Commons License</a>, with the exception of the data used (a seismic horizon from the [Penobscot 3D](https://terranubis.com/datainfo/Penobscot) which is covered by a [CC BY-SA Creative Commons License](https://creativecommons.org/licenses/by-sa/3.0/)).
 
