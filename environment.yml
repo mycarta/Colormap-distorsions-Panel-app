@@ -19,3 +19,4 @@ dependencies:
     - jupyter-panel-proxy
     - cmocean
     - cmcrameri
+    - jupyter_bokeh
