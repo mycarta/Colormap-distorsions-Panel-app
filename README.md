@@ -62,6 +62,17 @@ conda env create -f environment.yml
 ### How to use the app ####
 If you would like some background, please read [Crameri et al., 2020,  The misuse of colour in science communication. Nat Commun 11, 5444 ](https://www.nature.com/articles/s41467-020-19160-7), and my Society of Exploration Geophysicists tutorial [Evaluate and compare colormaps](https://github.com/seg/tutorials-2014/blob/master/README.md#august-2014).
 
+### Available Colormap Collections ###
+The app includes **5 colormap collections** to explore:
+
+| Collection | Description | Examples |
+|------------|-------------|----------|
+| **matplotlib** | Standard Matplotlib colormaps | viridis, plasma, jet, rainbow, cubehelix |
+| **colorcet** | [Peter Kovesi's perceptually uniform colormaps](https://colorcet.holoviz.org/) | cet_fire, cet_rainbow, cet_bgy |
+| **mycarta** | My custom perceptual colormaps ([background](https://mycartablog.com/color-palettes/)) | matteo_cube, matteo_cubeYF, matteo_linear_L |
+| **crameri** | [Fabio Crameri's scientific colormaps](https://www.fabiocrameri.ch/colourmaps/) - perceptually uniform, colorblind-friendly | batlow, roma, vik, hawaii, oslo |
+| **cmocean** | [Kristen Thyng's oceanography colormaps](https://matplotlib.org/cmocean/) - perceptually uniform | thermal, haline, deep, solar, ice |
+
 The idea behind this app is to allow comparing  any from a wide variety of colormaps to a good perceptual benchmark. As such:
 1. In the top row, I chose grayscale as reference perceptually uniform colormap. (N.B. not all grayscale colormaps are actually truly, 100% perceptually uniform, when you plot Lightness, but this is a decent approximation).
 
